@@ -14,6 +14,7 @@
 		EA6BCC3E24F0F933007448A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA6BCC3D24F0F933007448A0 /* Assets.xcassets */; };
 		EA6BCC4124F0F933007448A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA6BCC3F24F0F933007448A0 /* LaunchScreen.storyboard */; };
 		EA6BCC722500C490007448A0 /* Friends.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA6BCC712500C490007448A0 /* Friends.swift */; };
+		EA6BCC742502334A007448A0 /* Connection.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA6BCC732502334A007448A0 /* Connection.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		EA6BCC4024F0F933007448A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA6BCC4224F0F933007448A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EA6BCC712500C490007448A0 /* Friends.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friends.swift; sourceTree = "<group>"; };
+		EA6BCC732502334A007448A0 /* Connection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Connection.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				EA6BCC3824F0F931007448A0 /* ViewController.swift */,
 				EA6BCC3A24F0F932007448A0 /* Main.storyboard */,
 				EA6BCC712500C490007448A0 /* Friends.swift */,
+				EA6BCC732502334A007448A0 /* Connection.swift */,
 				EA6BCC3D24F0F933007448A0 /* Assets.xcassets */,
 				EA6BCC3F24F0F933007448A0 /* LaunchScreen.storyboard */,
 				EA6BCC4224F0F933007448A0 /* Info.plist */,
@@ -143,6 +146,7 @@
 			files = (
 				EA6BCC3924F0F931007448A0 /* ViewController.swift in Sources */,
 				EA6BCC3524F0F931007448A0 /* AppDelegate.swift in Sources */,
+				EA6BCC742502334A007448A0 /* Connection.swift in Sources */,
 				EA6BCC3724F0F931007448A0 /* SceneDelegate.swift in Sources */,
 				EA6BCC722500C490007448A0 /* Friends.swift in Sources */,
 			);
