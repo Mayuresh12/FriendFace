@@ -16,6 +16,8 @@
 		EA6BCC722500C490007448A0 /* Friends.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA6BCC712500C490007448A0 /* Friends.swift */; };
 		EA6BCC742502334A007448A0 /* Connection.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA6BCC732502334A007448A0 /* Connection.swift */; };
 		EA6BCC7625044176007448A0 /* SearchFriendsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA6BCC7525044176007448A0 /* SearchFriendsViewController.swift */; };
+		EA6BCC7825059C17007448A0 /* JSONDecoder-Remote.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA6BCC7725059C17007448A0 /* JSONDecoder-Remote.swift */; };
+		EA6BCC7A25059D34007448A0 /* FriendDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA6BCC7925059D34007448A0 /* FriendDataSource.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		EA6BCC712500C490007448A0 /* Friends.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friends.swift; sourceTree = "<group>"; };
 		EA6BCC732502334A007448A0 /* Connection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Connection.swift; sourceTree = "<group>"; };
 		EA6BCC7525044176007448A0 /* SearchFriendsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchFriendsViewController.swift; sourceTree = "<group>"; };
+		EA6BCC7725059C17007448A0 /* JSONDecoder-Remote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "JSONDecoder-Remote.swift"; sourceTree = "<group>"; };
+		EA6BCC7925059D34007448A0 /* FriendDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendDataSource.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +50,7 @@
 		EA6BCC2824F0F931007448A0 = {
 			isa = PBXGroup;
 			children = (
+				EA6BCC7925059D34007448A0 /* FriendDataSource.swift */,
 				EA6BCC3324F0F931007448A0 /* FriendFace */,
 				EA6BCC3224F0F931007448A0 /* Products */,
 			);
@@ -68,6 +73,7 @@
 				EA6BCC7525044176007448A0 /* SearchFriendsViewController.swift */,
 				EA6BCC3A24F0F932007448A0 /* Main.storyboard */,
 				EA6BCC712500C490007448A0 /* Friends.swift */,
+				EA6BCC7725059C17007448A0 /* JSONDecoder-Remote.swift */,
 				EA6BCC732502334A007448A0 /* Connection.swift */,
 				EA6BCC3D24F0F933007448A0 /* Assets.xcassets */,
 				EA6BCC3F24F0F933007448A0 /* LaunchScreen.storyboard */,
@@ -150,6 +156,8 @@
 				EA6BCC7625044176007448A0 /* SearchFriendsViewController.swift in Sources */,
 				EA6BCC3924F0F931007448A0 /* ViewController.swift in Sources */,
 				EA6BCC3524F0F931007448A0 /* AppDelegate.swift in Sources */,
+				EA6BCC7825059C17007448A0 /* JSONDecoder-Remote.swift in Sources */,
+				EA6BCC7A25059D34007448A0 /* FriendDataSource.swift in Sources */,
 				EA6BCC742502334A007448A0 /* Connection.swift in Sources */,
 				EA6BCC3724F0F931007448A0 /* SceneDelegate.swift in Sources */,
 				EA6BCC722500C490007448A0 /* Friends.swift in Sources */,
