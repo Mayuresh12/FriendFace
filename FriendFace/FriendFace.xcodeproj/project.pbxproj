@@ -50,7 +50,6 @@
 		EA6BCC2824F0F931007448A0 = {
 			isa = PBXGroup;
 			children = (
-				EA6BCC7925059D34007448A0 /* FriendDataSource.swift */,
 				EA6BCC3324F0F931007448A0 /* FriendFace */,
 				EA6BCC3224F0F931007448A0 /* Products */,
 			);
@@ -67,6 +66,7 @@
 		EA6BCC3324F0F931007448A0 /* FriendFace */ = {
 			isa = PBXGroup;
 			children = (
+				EA6BCC7925059D34007448A0 /* FriendDataSource.swift */,
 				EA6BCC3424F0F931007448A0 /* AppDelegate.swift */,
 				EA6BCC3624F0F931007448A0 /* SceneDelegate.swift */,
 				EA6BCC3824F0F931007448A0 /* ViewController.swift */,
